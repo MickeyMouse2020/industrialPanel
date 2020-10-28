@@ -1,0 +1,23 @@
+<RCC>
+    <qresource prefix="/">
+        <file>lightblue.css</file>
+        <file>lightblue/add_bottom.png</file>
+        <file>lightblue/add_left.png</file>
+        <file>lightblue/add_right.png</file>
+        <file>lightblue/add_top.png</file>
+        <file>lightblue/branch_close.png</file>
+        <file>lightblue/branch_open.png</file>
+        <file>lightblue/calendar_nextmonth.png</file>
+        <file>lightblue/calendar_prevmonth.png</file>
+        <file>lightblue/checkbox_checked.png</file>
+        <file>lightblue/checkbox_checked_disable.png</file>
+        <file>lightblue/checkbox_parcial.png</file>
+        <file>lightblue/checkbox_parcial_disable.png</file>
+        <file>lightblue/checkbox_unchecked.png</file>
+        <file>lightblue/checkbox_unchecked_disable.png</file>
+        <file>lightblue/radiobutton_checked.png</file>
+        <file>lightblue/radiobutton_checked_disable.png</file>
+        <file>lightblue/radiobutton_unchecked.png</file>
+        <file>lightblue/radiobutton_unchecked_disable.png</file>
+    </qresource>
+</RCC>

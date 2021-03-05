@@ -61,7 +61,7 @@ void frmDbPage::on_btnSelect_clicked()
     dbPage->setOrderSql(QString("%1 %2").arg(countName).arg("asc"));
     dbPage->setWhereSql(sql);
     //dbPage->setResultCurrent(20);
-    dbPage->setResultCurrent(15);
+    dbPage->setResultCurrent(10);
     dbPage->setColumnNames(columnNames);
     dbPage->setColumnWidths(columnWidths);
     dbPage->select();

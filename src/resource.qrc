@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/vpe">
+        <file>img/bg.jpg</file>
+        <file>img/bg1.jpg</file>
+    </qresource>
+</RCC>

@@ -49,7 +49,8 @@ int main(int argc, char* argv[])
 		}
 	}
 
-	QString qssFile = ":/lightblue.css";
+	//QString qssFile = ":/lightblue.css";
+	QString qssFile = ":/gray.css";
 
 	QFile file(qssFile);
 

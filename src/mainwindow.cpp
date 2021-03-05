@@ -21,6 +21,12 @@ MainWindow::MainWindow(QWidget *parent) :
 
     this->setWindowTitle(App::windowTitle);
 
+    QPixmap pixmap(":/vpe/img/bg1.jpg");
+
+    // ÎªQCustomePlotÉèÖÃ±³¾°É«
+    ui->customPlot->setBackground(pixmap);
+    ui->customPlot->replot();
+
     setupRealtimeDataDemo(ui->customPlot);
     ui->customPlot->replot();
 

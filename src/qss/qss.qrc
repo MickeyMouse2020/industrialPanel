@@ -19,5 +19,6 @@
         <file>lightblue/radiobutton_checked_disable.png</file>
         <file>lightblue/radiobutton_unchecked.png</file>
         <file>lightblue/radiobutton_unchecked_disable.png</file>
+        <file>gray.css</file>
     </qresource>
 </RCC>

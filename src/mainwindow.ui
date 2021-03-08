@@ -41,7 +41,7 @@
        </attribute>
        <layout class="QHBoxLayout" name="horizontalLayout_3" stretch="1,0">
         <property name="spacing">
-         <number>3</number>
+         <number>0</number>
         </property>
         <property name="leftMargin">
          <number>0</number>
@@ -88,12 +88,24 @@
              <property name="text">
               <string>实测数据</string>
              </property>
+             <property name="iconSize">
+              <size>
+               <width>32</width>
+               <height>32</height>
+              </size>
+             </property>
             </widget>
            </item>
            <item row="1" column="0">
             <widget class="QCheckBox" name="checkBox_hui">
              <property name="text">
               <string>模拟数据</string>
+             </property>
+             <property name="iconSize">
+              <size>
+               <width>48</width>
+               <height>48</height>
+              </size>
              </property>
             </widget>
            </item>

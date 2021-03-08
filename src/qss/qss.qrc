@@ -20,5 +20,23 @@
         <file>lightblue/radiobutton_unchecked.png</file>
         <file>lightblue/radiobutton_unchecked_disable.png</file>
         <file>gray.css</file>
+        <file>gray/add_bottom.png</file>
+        <file>gray/add_left.png</file>
+        <file>gray/add_right.png</file>
+        <file>gray/add_top.png</file>
+        <file>gray/branch_close.png</file>
+        <file>gray/branch_open.png</file>
+        <file>gray/calendar_nextmonth.png</file>
+        <file>gray/calendar_prevmonth.png</file>
+        <file>gray/checkbox_checked.png</file>
+        <file>gray/checkbox_checked_disable.png</file>
+        <file>gray/checkbox_parcial.png</file>
+        <file>gray/checkbox_parcial_disable.png</file>
+        <file>gray/checkbox_unchecked.png</file>
+        <file>gray/checkbox_unchecked_disable.png</file>
+        <file>gray/radiobutton_checked.png</file>
+        <file>gray/radiobutton_checked_disable.png</file>
+        <file>gray/radiobutton_unchecked.png</file>
+        <file>gray/radiobutton_unchecked_disable.png</file>
     </qresource>
 </RCC>
